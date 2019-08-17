@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>JavaScript30</title>
+</head>
+<body>
+    <div class="container header">
+        <h1>HayeonBaek's JavaScript30</h1>
+        <h2>This is a page showcasing my demo implementations of a JavaScript tutorial series by Wes Bos.</h2>
+        <p>This is a plan vanilla JavaScript exercise, without any libraries, transpilers or frameworks. You can find the original JavaScript here
+        <a href="https://javascript30.com/">here</a> and my public code on <a href="https://github.com/bhy304/JavaScript30">GitHub</a>.
+        </p>
+    </div>
+    <div class="container">
+        <div class="container-block container-before">
+            <a href="https://github.com/bhy304/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/">
+            <img src="assets/img/javaScriptDrumKit.png" alt="JavaScript Drum Kit Demo">
+            <span class="description">#1 JavaScript Drum Kit</span>
+            </a>
+        </div>
+        <div class="container-block container-before">
+            <a href="https://github.com/bhy304/JavaScript30/02%20-%20JS%20and%20CSS%20Clock/">
+            <img src="assets/img/JSandCSSClock.png" alt="JS and CSS Clock Demo">
+            <span class="description">#2 JS and CSS Clock</span>
+            </a>
+        </div>
+        <div class="container-block container-before">
+            <a href="https://github.com/bhy304/JavaScript30/03%20-%20CSS%20Variables/">
+            <img src="assets/img/cssVariables.png" alt="CSS Variables Demo">
+            <span class="description">#3 CSS Variables</span>
+            </a>
+        </div>
+    </div>
+    <style>
+        :root {
+            --color-primary: #3f51b5;
+            --color-secondary: #c5cae9;
+            --color-accent: #f6be15;
+        }
+        html, body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size: 100%;
+            -webkit-text-size-adjust: 100%;
+            line-height: 1.15;
+            text-align: center;
+            background: var(--color-primary);
+            color: var(--color-secondary);
+        }
+
+        h1 {
+            font-size: 64px;
+            margin: 15px 0;
+        }
+
+        h2 {
+            font-size: 25px;
+            margin: 0;
+        }
+
+        p {
+            font-size: 18px;
+        }
+
+
+        .header a {
+            color: inherit;
+            text-decoration: none;
+            font-weight: 900;
+            letter-spacing: 1.2px;
+            transition: .2s ease;
+            display: inline-block;
+            min-width: 0;
+            padding: 0 4px;
+        }
+
+        .header a:hover {
+            font-size: 1.25em;
+            color: var(--color-primary);
+            background: var(--color-secondary);
+            border-radius: 18px;
+            min-width: 65px;
+        }
+
+        .container {
+            max-width: 1500px;
+            margin: 0 auto;
+            padding: 15px;
+            display: -webkit-flex;
+            display: flex;
+            flex-flow: row wrap;
+            justify-content: center;
+        }
+        .container-block {
+            display: block;
+            float: left;
+            position: relative;
+            margin: 15px;
+            flex-basis: calc(25% - 30px);
+            border-radius: 4px;
+        }
+
+        .container-block > a {
+            display: block;
+            width: 100%;
+            background: linear-gradient(rgba(51, 51, 51, 0.2),
+                                        rgba(51, 51, 51, 0.7));   
+            transition: .15s ease-in;
+            border-radius: 4px;
+        }
+
+        .container-block:hover > a {
+            background: linear-gradient(rgba(0 , 0, 0, 0),
+                                        rgba(0, 0, 0, 0.5));   
+            transform: scale(1.1);
+        }
+
+        .container-block img {
+            display: block;
+            width: 100%;
+            border-radius: 4px;
+            mix-blend-mode: luminosity;
+        }
+
+        .description {
+            position: absolute;
+            bottom: 10px;
+            left: 15px;
+            padding: 1px 4px;
+            border-radius: 1px;
+            background: #000000;
+            color: #fff;
+            font-size: 12px;
+            text-transform: uppercase;
+            font-weight: 700;
+            letter-spacing: .5px;
+            transition: .15s ease-in;
+        }
+        
+        .header {
+            margin: 3em auto;
+            padding: 0 30px;
+        }
+    </style>
+</body>
+</html>
