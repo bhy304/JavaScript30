@@ -3,8 +3,6 @@
 
 Check the course at [https://JavaScript30.com](https://JavaScript30.com)
 
-
-
 # Table of contents
 - [X] 1. JavaScript Drum kit
 - [X] 2. JS and CSS Clock
