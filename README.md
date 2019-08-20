@@ -3,13 +3,15 @@
 
 Check the course at [https://JavaScript30.com](https://JavaScript30.com)
 
+
+
 # Table of contents
 - [X] 1. JavaScript Drum kit
 - [X] 2. JS and CSS Clock
 - [X] 3. CSS Variables
 - [X] 4. Array Cardio Day 1
 - [X] 5. Flex Panel Gallery
-- [ ] 6. Type Ahead
+- [X] 6. Type Ahead
 - [ ] 7. Array Cardio Day 2
 - [ ] 8. Fun with HTML5 Canvas
 - [ ] 9. Dev Tools Domination
