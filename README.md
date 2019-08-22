@@ -11,7 +11,7 @@ Check the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [X] 5. Flex Panel Gallery
 - [X] 6. Type Ahead
 - [X] 7. Array Cardio Day 2
-- [ ] 8. Fun with HTML5 Canvas
+- [X] 8. Fun with HTML5 Canvas
 - [ ] 9. Dev Tools Domination
 - [ ] 10. Hold Shift and Check Checkboxes
 - [ ] 11. Custom Video Player
