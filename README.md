@@ -12,7 +12,7 @@ Check the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [X] 6. Type Ahead
 - [X] 7. Array Cardio Day 2
 - [X] 8. Fun with HTML5 Canvas
-- [ ] 9. Dev Tools Domination
+- [X] 9. Dev Tools Domination
 - [ ] 10. Hold Shift and Check Checkboxes
 - [ ] 11. Custom Video Player
 - [ ] 12. Key Sequence Detection
