@@ -14,7 +14,7 @@ Check the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [X] 8. Fun with HTML5 Canvas
 - [X] 9. Dev Tools Domination
 - [X] 10. Hold Shift and Check Checkboxes
-- [ ] 11. Custom Video Player
+- [X] 11. Custom Video Player
 - [ ] 12. Key Sequence Detection
 - [ ] 13. Slide in on Scroll
 - [ ] 14. JavaScript References VS Copying
