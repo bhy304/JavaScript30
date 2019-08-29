@@ -17,8 +17,8 @@ Check the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [X] 11. Custom Video Player
 - [X] 12. Key Sequence Detection
 - [X] 13. Slide in on Scroll
-- [ ] 14. JavaScript References VS Copying
-- [ ] 15. LocalStorage
+- [X] 14. JavaScript References VS Copying
+- [X] 15. LocalStorage
 - [ ] 16. Mouse Move Shadow
 - [ ] 17. Sort Without Articles
 - [ ] 18. Adding Up Times with Reduce
