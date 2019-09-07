@@ -19,7 +19,7 @@ Check the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [X] 13. Slide in on Scroll
 - [X] 14. JavaScript References VS Copying
 - [X] 15. LocalStorage
-- [ ] 16. Mouse Move Shadow
+- [X] 16. Mouse Move Shadow
 - [ ] 17. Sort Without Articles
 - [ ] 18. Adding Up Times with Reduce
 - [ ] 19. Webcam Fun
