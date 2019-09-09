@@ -182,7 +182,7 @@
     </li>
   </ul>
 <script>
-    
+
     const timeNodes = Array.from(document.querySelectorAll('[data-time]'));
 
     const seconds = timeNodes
@@ -200,7 +200,7 @@
     const mins = Math.floor(secondsLeft / 60);
     secondsLeft = secondsLeft % 60;
 
-    console.log(hours, mins, secondsLeft);
+    console.log(`${hours} hours ${mins} mins ${secondsLeft} secondsLeft`);
 
 </script>
 </body>
