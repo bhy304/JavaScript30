@@ -22,7 +22,7 @@ Check the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [X] 16. Mouse Move Shadow
 - [X] 17. Sort Without Articles
 - [X] 18. Adding Up Times with Reduce
-- [ ] 19. Webcam Fun
+- [X] 19. Webcam Fun
 - [ ] 20. Speech Detection
 - [ ] 21. Geolocation
 - [ ] 22. Follow Along Link Highlighter
