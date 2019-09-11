@@ -23,7 +23,7 @@ Check the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [X] 17. Sort Without Articles
 - [X] 18. Adding Up Times with Reduce
 - [X] 19. Webcam Fun
-- [ ] 20. Speech Detection
+- [X] 20. Speech Detection
 - [ ] 21. Geolocation
 - [ ] 22. Follow Along Link Highlighter
 - [ ] 23. Speech Synthesis
