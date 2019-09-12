@@ -24,7 +24,7 @@ Check the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [X] 18. Adding Up Times with Reduce
 - [X] 19. Webcam Fun
 - [X] 20. Speech Detection
-- [ ] 21. Geolocation
+- [X] 21. Geolocation
 - [ ] 22. Follow Along Link Highlighter
 - [ ] 23. Speech Synthesis
 - [ ] 24. Sticky Nav
