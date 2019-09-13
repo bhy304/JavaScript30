@@ -25,7 +25,7 @@ Check the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [X] 19. Webcam Fun
 - [X] 20. Speech Detection
 - [X] 21. Geolocation
-- [ ] 22. Follow Along Link Highlighter
+- [X] 22. Follow Along Link Highlighter
 - [ ] 23. Speech Synthesis
 - [ ] 24. Sticky Nav
 - [ ] 25. Event Capture, Propagation, Bubbling and Once
