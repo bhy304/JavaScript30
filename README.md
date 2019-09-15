@@ -27,7 +27,7 @@ Check the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [X] 21. Geolocation
 - [X] 22. Follow Along Link Highlighter
 - [X] 23. Speech Synthesis
-- [ ] 24. Sticky Nav
+- [X] 24. Sticky Nav
 - [ ] 25. Event Capture, Propagation, Bubbling and Once
 - [ ] 26. Stripe Follow Along Nav
 - [ ] 27. Click and Drag
