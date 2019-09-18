@@ -30,7 +30,7 @@ Check the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [X] 24. Sticky Nav
 - [X] 25. Event Capture, Propagation, Bubbling and Once
 - [X] 26. Stripe Follow Along Nav
-- [ ] 27. Click and Drag
+- [X] 27. Click and Drag
 - [ ] 28. Video Speed Controller
 - [ ] 29. Countdown Timer
 - [ ] 30. Whack A Mole
