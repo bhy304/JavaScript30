@@ -32,5 +32,5 @@ Check the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [X] 26. Stripe Follow Along Nav
 - [X] 27. Click and Drag
 - [X] 28. Video Speed Controller
-- [ ] 29. Countdown Timer
+- [X] 29. Countdown Timer
 - [ ] 30. Whack A Mole
