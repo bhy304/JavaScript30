@@ -33,4 +33,4 @@ Check the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [X] 27. Click and Drag
 - [X] 28. Video Speed Controller
 - [X] 29. Countdown Timer
-- [ ] 30. Whack A Mole
+- [X] 30. Whack A Mole
